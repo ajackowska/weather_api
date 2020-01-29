@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+main {
+    display: inline-block;
+    margin: 5rem auto;
+}
